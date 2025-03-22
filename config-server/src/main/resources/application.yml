@@ -1,0 +1,16 @@
+spring:
+  application:
+    name: ConfigServer
+server:
+  port: 8761
+eureka:
+  instance:
+    host-name: config-server
+  client:
+    register-with-eureka: false
+    fetch-registry: false
+logging:
+  level:
+    com.netflix.eureka: OFF
+    com.netflix.discovery: OFF
+#http://localhost:8761/

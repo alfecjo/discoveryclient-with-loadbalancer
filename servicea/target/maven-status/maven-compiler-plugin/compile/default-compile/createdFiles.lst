@@ -1,0 +1,3 @@
+com\app\servicea\ServiceaApplication.class
+com\app\servicea\actuator\CustomInfoContributor.class
+com\app\servicea\controller\ServiceARestController.class

@@ -1,0 +1,4 @@
+com\app\serviceb\actuator\CustomInfoContributor.class
+com\app\serviceb\ServicebApplication.class
+com\app\serviceb\config\AppConfig.class
+com\app\serviceb\controller\ServiceBRestController.class
