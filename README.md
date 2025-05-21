@@ -80,6 +80,7 @@ As requisições serão automaticamente distribuídas entre as réplicas de serv
 | **Balanceamento de Carga** | Spring Cloud LoadBalancer        | Kubernetes Service distribui tráfego  |
 | **Escalabilidade**      | Feita manualmente via Eureka      | Kubernetes gerencia automaticamente  |
 
+
 ✅ **Seu código já está quase 100% pronto para Kubernetes!**  
 Só precisa remover o Eureka, se quiser, e garantir que o **Service** do Kubernetes seja corretamente configurado.  🚀🔥
 
